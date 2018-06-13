@@ -1,0 +1,26 @@
+{
+  "name": "cc-cli-plugin-image-compressor",
+  "version": "1.0.0",
+  "description": "a plugin of cc-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuhongda/cc-cli-plugin-image-compressor.git"
+  },
+  "keywords": [
+    "cc-cli",
+    "plugin"
+  ],
+  "author": "yuhongda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuhongda/cc-cli-plugin-image-compressor/issues"
+  },
+  "homepage": "https://github.com/yuhongda/cc-cli-plugin-image-compressor#readme",
+  "devDependencies": {
+    "image-compressor-plugin": "^1.0.2"
+  }
+}
