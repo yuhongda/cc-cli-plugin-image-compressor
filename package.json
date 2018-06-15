@@ -20,7 +20,7 @@
     "url": "https://github.com/yuhongda/cc-cli-plugin-image-compressor/issues"
   },
   "homepage": "https://github.com/yuhongda/cc-cli-plugin-image-compressor#readme",
-  "devDependencies": {
+  "dependencies": {
     "image-compressor-plugin": "^1.0.2"
   }
 }
