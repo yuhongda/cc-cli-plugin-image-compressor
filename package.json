@@ -1,6 +1,6 @@
 {
   "name": "cc-cli-plugin-image-compressor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a plugin of cc-cli",
   "main": "index.js",
   "scripts": {
